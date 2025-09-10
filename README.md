@@ -37,5 +37,4 @@ KAGGLE_KEY=tu_contraseña
 venv\Scripts\activate
 python -m etl.load
 
-python -m etl.pipeline --csv data/ventas_mockaroo.csv
 
