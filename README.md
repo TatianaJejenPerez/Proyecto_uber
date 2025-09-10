@@ -35,6 +35,8 @@ KAGGLE_KEY=tu_contraseña
 # 5) Ejecutar el codigo 
 
 venv\Scripts\activate
+
+
 python -m etl.load
 
 
